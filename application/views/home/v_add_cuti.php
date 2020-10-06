@@ -114,7 +114,14 @@
                       </div>
                     </div>
                   </div>
-                  
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+                        <label>Alamat Selama Menjalankan Cuti</label>                     
+                        <textarea class="form-control textarea" name="alamat_selama_cuti" required></textarea>
+                      </div>
+                    </div>
+                  </div>
                   <div class="row">
                     <div class="col-md-4 pr-1">
                       <div class="form-group">
